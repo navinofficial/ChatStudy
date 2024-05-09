@@ -136,9 +136,9 @@ if __name__ == '__main__':
 ```
 ## output
 ### client:
-![image](https://github.com/navinofficial/ChatStudy/assets/151710204/d1a28c1d-f580-48ec-866a-4e828e5c2b10)
+![Screenshot 2024-05-09 131120](https://github.com/navinofficial/ChatStudy/assets/151710204/2e99190f-45dd-4e58-9a50-15cbc5277988)
 ### server:
-![image](https://github.com/navinofficial/ChatStudy/assets/151710204/2e84bdb5-8def-422e-93b0-2c826de3a652)
+![Screenshot 2024-05-09 131129](https://github.com/navinofficial/ChatStudy/assets/151710204/bc99af04-c8aa-4d39-88df-90229778c8af)
 ## Result:
 Thus the study on Client Server Chat Applications has been performed
 
